@@ -30,6 +30,10 @@ For a complete overview please consult: [installed-packages](./installed-package
 - 7za 16.02
 - MySQL 8.0.27-debian10
 - aws-cli/2.4.14 Python/3.8.8
+- curl 7.64.0 
+- gdebi-core
+- R version 4.1.2 (2021-11-01) -- "Bird Hippie"
+- RStudio Server v2021.09.2+382
 
 ## Installing new packages
 
