@@ -34,6 +34,8 @@ For a complete overview please consult: [installed-packages](./installed-package
 - gdebi-core
 - R version 4.1.2 (2021-11-01) -- "Bird Hippie"
 - RStudio Server v2021.09.2+382
+- libxml2-dev
+- git 2.20.1
 
 ## Installing new packages
 
