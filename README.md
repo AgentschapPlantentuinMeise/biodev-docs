@@ -37,6 +37,10 @@ For a complete overview please consult: [installed-packages](./installed-package
 - libxml2-dev
 - git 2.20.1
 
+### MySQL
+
+See https://github.com/AgentschapPlantentuinMeise/BGBASEtoMySQL for more information
+
 ## Installing new packages
 
 **DO NOT RUN apt-upgrade**
