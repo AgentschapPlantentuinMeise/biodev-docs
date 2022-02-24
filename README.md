@@ -36,6 +36,7 @@ For a complete overview please consult: [installed-packages](./installed-package
 - RStudio Server v2021.09.2+382
 - libxml2-dev
 - git 2.20.1
+- poppler-utils
 
 ### MySQL
 
