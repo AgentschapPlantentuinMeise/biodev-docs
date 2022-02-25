@@ -39,6 +39,7 @@ For a complete overview please consult: [installed-packages](./installed-package
 - poppler-utils
 - Spark 3.0.1
 - Hadoop 3.2
+- openjdk version "11.0.14" 2022-01-18
 
 ### MySQL
 
