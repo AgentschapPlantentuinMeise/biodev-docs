@@ -37,6 +37,8 @@ For a complete overview please consult: [installed-packages](./installed-package
 - libxml2-dev
 - git 2.20.1
 - poppler-utils
+- Spark 3.0.1
+- Hadoop 3.2
 
 ### MySQL
 
