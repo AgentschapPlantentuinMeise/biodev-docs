@@ -41,6 +41,7 @@ For a complete overview please consult: [installed-packages](./installed-package
 - Hadoop 3.2
 - openjdk version "11.0.14" 2022-01-18
 - libarrow
+- github cli 2.5.2
 
 ### MySQL
 
