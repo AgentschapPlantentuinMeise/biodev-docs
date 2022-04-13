@@ -42,6 +42,7 @@ For a complete overview please consult: [installed-packages](./installed-package
 - openjdk version "11.0.14" 2022-01-18
 - libarrow
 - github cli 2.5.2
+- jpeginfo v1.6.0
 
 ### MySQL
 
