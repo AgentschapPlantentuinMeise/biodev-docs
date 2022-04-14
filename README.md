@@ -43,6 +43,7 @@ For a complete overview please consult: [installed-packages](./installed-package
 - libarrow
 - github cli 2.5.2
 - jpeginfo v1.6.0
+- pigz 2.4
 
 ### MySQL
 
