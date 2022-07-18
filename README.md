@@ -45,6 +45,15 @@ For a complete overview please consult: [installed-packages](./installed-package
 - jpeginfo v1.6.0
 - pigz 2.4
 - OpenRefine 3.5.2
+- tesseract 4.0.0
+- leptonica-1.76.0
+- libgif 5.1.4 : libjpeg 6b (libjpeg-turbo 1.5.2) : libpng 1.6.36 : libtiff 4.1.0 : zlib 1.2.11 : libwebp 0.6.1 : libopenjp2 2.3.0
+- tesseract-ocr-eng
+- tesseract-ocr-fra
+- ocrmypdf 8.0.1+dfsg
+
+
+
 
 ### MySQL
 
