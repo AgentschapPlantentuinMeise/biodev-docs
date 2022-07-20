@@ -11,6 +11,12 @@ You need to be inside the gardens network to access the server, so if you are of
 
 Please contact Pieter+Niko for login credentials if you think you need some. 
 
+###
+
+OpenRefine: http://10.10.0.54:3333/
+
+RStudio: http://10.10.0.54:8787/
+
 ## Scope
 
 You can use this server to run pretty much everything, as long as it doesn't need to be exposed to the outside world. This is not a production server. Let's try to be mindful of creep towards production services, if you feel something that is running on the server is becoming too important to loose, bring it up and we'll find a solution.
