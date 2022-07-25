@@ -57,6 +57,7 @@ For a complete overview please consult: [installed-packages](./installed-package
 - tesseract-ocr-eng
 - tesseract-ocr-fra
 - ocrmypdf 8.0.1+dfsg
+- libmariadb-dev
 
 
 
