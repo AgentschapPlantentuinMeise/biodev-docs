@@ -60,7 +60,10 @@ For a complete overview please consult: [installed-packages](./installed-package
 - libmariadb-dev
 
 
+### OpenRefine
+We are running Version 3.5.2 on OpenJDK Runtime Environment 11.0.14+9-post-Debian-1deb10u1. To start the service run: `start openrefine.service` with elevated user rights. Restarting the service is similar with `restart`. I have no objections to updating to the most recent version, but I'll hold off until I get a request.
 
+If you need more RAM to be allocated to OpenRefine (increase the JAVA heap size) by looking in this book which has other interesting things in it: https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781783289080/1/ch01lvl1sec15/recipe-7-going-for-more-memory, do keep in mind that OpenRefine/JAVA will keep this RAM reserved, so it will not be availalbe to other services such as Python/MySQL/R.
 
 ### MySQL
 
